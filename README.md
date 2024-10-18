@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grubbrr-gaurang
+- 👋 Hi, I’m Gaurang Goda
 - 👀 I’m interested in travelig, coding, table tennis
 - 🌱 I’m currently learning typescript, react, flutter
 - 💞️ I’m looking to collaborate on new project
