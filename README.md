@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grubbrr-gaurang
 - 👀 I’m interested in travelig, coding, table tennis
-- 🌱 I’m currently learning typescript and kotlin
+- 🌱 I’m currently learning typescript, react, flutter
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me ggoda@grubbrr.com
 - 😄 Pronouns: He
